@@ -1,0 +1,8 @@
+Package: com.zidati.hexagondots
+Name: Hexagon Dots Springy Animation
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hexagon Dots Springy animation from reddit user/isaacteo
+Maintainer: Zidati <zidatigaming@gmail.com>
+Author: Zidati <zidatigaming@gmail.com>
+Section: Springy

@@ -1,0 +1,9 @@
+Package: com.zidati.gothamcomplete
+Name: Gotham Complete
+Depends: com.anemonetheming.anemone
+Version: 1.0
+Architecture: iphoneos-arm
+Description: mostly complete Gotham theme
+Maintainer: Zidati <zidatigaming@gmail.com>
+Author: Zidati <zidatigaming@gmail.com>
+Section: Themes

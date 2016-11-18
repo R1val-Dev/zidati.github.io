@@ -1,0 +1,8 @@
+Package: com.zidati.spinningsphere
+Name: Spinning Sphere Springy Animation
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Spinning Sphere Springy animation from reddit user/isaacteo
+Maintainer: Zidati <zidatigaming@gmail.com>
+Author: Zidati <zidatigaming@gmail.com>
+Section: Springy
