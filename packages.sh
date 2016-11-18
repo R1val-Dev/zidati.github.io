@@ -7,8 +7,6 @@ dpkg-deb -bZgzip projects/atomspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/ballspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
-dpkg-deb -bZgzip projects/bluespringy debs
-# dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/bouncingdotsspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/circleceptionspringy debs
@@ -28,8 +26,6 @@ dpkg-deb -bZgzip projects/crispydark debs
 dpkg-deb -bZgzip projects/crystalballspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/cubesspringy debs
-# dpkg-deb -bZgzip projects/<project name> <outputlocation>
-dpkg-deb -bZgzip projects/donutsspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/downloadingerrorspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
@@ -76,6 +72,8 @@ dpkg-deb -bZgzip projects/spinningcubespringy debs
 dpkg-deb -bZgzip projects/spinningspherespringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/spiralhexagon debs
+# dpkg-deb -bZgzip projects/<project name> <outputlocation>
+dpkg-deb -bZgzip projects/sunsetspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/ticktockspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
