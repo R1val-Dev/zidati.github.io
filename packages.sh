@@ -55,6 +55,8 @@ dpkg-deb -bZgzip projects/pinkretardspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/pokemongospringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
+dpkg-deb -bZgzip projects/portlandtrailblazers debs
+# dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/prismaticheadspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/rotating8springy debs
