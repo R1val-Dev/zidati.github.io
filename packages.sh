@@ -7,6 +7,8 @@ dpkg-deb -bZgzip projects/atomspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/ballspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
+dpkg-deb -bZgzip projects/BostonRedSoxlockglyph debs
+# dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/bouncingdotsspringy debs
 # dpkg-deb -bZgzip projects/<project name> <outputlocation>
 dpkg-deb -bZgzip projects/circleceptionspringy debs

@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.3dots_1.0_iphoneos-arm.deb
 Size: 498042
-MD5sum: 970d13d9b5352a0d7099eeb61c1c39c3
-SHA1: 8af0abee27a147d6aa9b7f766e3b2bf093c94348
-SHA256: ab831f0d0c9fbd7f511257323376fa4efcf36273166b208d9288f4760486d590
+MD5sum: 167d37b2c94b90a2fe7d7f9d9227e5da
+SHA1: 92edf7c99cfcb86cce06ebd936fabf846dcbcec1
+SHA256: aaef04e29d7c4605c048c744326027e10251415f3a126d5002f90bcbd8a2c68f
 Section: Springy
 Description: 3 Dots Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -18,9 +18,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.atom_1.0_iphoneos-arm.deb
 Size: 3730134
-MD5sum: 51f7692a0278e65942b3a58dd34a9276
-SHA1: b8fa943f5f78d77c2ffb7f856fa16aad721cf6a7
-SHA256: 28d0cc546dfbddf9803f6e2b3c3937ed128e786de4e00700eb06654b86b6deb2
+MD5sum: f96ec875f6b365084cf0e16d89b7a77d
+SHA1: 926614d1a82e5633a2ce6175c79787fcfac5c9ab
+SHA256: 59123e8f972807ad38736af3a9735b8f1dfff6cc874a6ec327fb18dcc8e27b84
 Section: Springy
 Description: Atom Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -32,13 +32,27 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.ball_1.0_iphoneos-arm.deb
 Size: 2266244
-MD5sum: 37e42811ec355c6c713c4acd95e793d3
-SHA1: 2d0c8e03f8be8a30ff584d55cd987319fc1469c7
-SHA256: 726ed8a0cf504aa6ba8c8c27102c7e5dc03b718a656fa3876c53810f1cdce978
+MD5sum: 4d8e0db01d744d28f5aa7a1c7f12135c
+SHA1: b1f511612181cc361d6aadba679a4ee7c9aef738
+SHA256: 07b3ec36368c1566d5371b31bab2b55481bf9b456655cc9f76129f6804c84d55
 Section: Springy
 Description: Ball Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
 Name: Ball Springy Animation
+
+Package: com.zidati.bostonredsoxlockglyph
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Zidati <zidatigaming@gmail.com>
+Filename: ./debs/com.zidati.bostonredsoxlockglyph_1.0_iphoneos-arm.deb
+Size: 11774
+MD5sum: 9ed1e24c2baa9c709ff904f14548a707
+SHA1: 3720fd286d6d6b1fd4ad2f4761f94fdb6e25d11d
+SHA256: 134a3ff2d7221255c785e4acdfa7864ab549d6b954b490bed5e980192ca9727f
+Section: Lock Glyph
+Description: Boston Red Sox Lock Glyph
+Author: Zidati <zidatigaming@gmail.com>
+Name: Boston Red Sox Lock Glyph
 
 Package: com.zidati.bouncingdots
 Version: 1.0
@@ -46,9 +60,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.bouncingdots_1.0_iphoneos-arm.deb
 Size: 2552760
-MD5sum: 501669f5eb81a4077160be544e3e08be
-SHA1: 9b690111c4b033a8f0d4e3d1801de453064e86da
-SHA256: 175cb2e8275ae26a3ea48d1a8505fb24a810e5fd0e9b40eda7537ecfd67c5ffc
+MD5sum: 6d31b233e91d41615368b0909ed59ee9
+SHA1: ec7b9a556fb1c9691128296fa47302c7428d9b25
+SHA256: 087aa25894950171827eb5b19e93fdcb1b426b0ee2be2f6ee69b2d4eb79a45e7
 Section: Springy
 Description: Bouncing Dots Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -60,9 +74,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.circleception_1.0_iphoneos-arm.deb
 Size: 3631850
-MD5sum: b629556c946a066710cac2f2f61f7b81
-SHA1: a4aad8197471054ae294f3155e976b06d1a15ee8
-SHA256: 4ea667c5676e47a2943c170e0da9b979c2f0b08849b4fd3de0e8f79e0096c888
+MD5sum: e735a442fe7e22954900b7e767b3137c
+SHA1: b95d7cadaf42c1696efcc32acee76d5ab3b8457a
+SHA256: fab90e571982f600e8054c9571b312a7d3799864fb1596c795b5b9780f90cc1f
 Section: Springy
 Description: Circleception Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -74,9 +88,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.circularwave_1.0_iphoneos-arm.deb
 Size: 6135614
-MD5sum: bcc52243a63b84ffe9b420ff0c95b37f
-SHA1: 52032c3ff1354372ed77d5e2cbc3e5d423f939dd
-SHA256: 5bae8be82a161912a48935ac0628a16b619537ef4d0e37f8ba208ffde050589a
+MD5sum: 128259ae10a22cd8447168e0d43860d0
+SHA1: 44339afaaa63ccff4febb97851f6d2f9be771e61
+SHA256: 23df7d326c8e1535b8b0049707f195d61bdbd021a75ea1102807e7efb261a749
 Section: Springy
 Description: Circular Wave Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -88,9 +102,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.colorfulapple_1.0_iphoneos-arm.deb
 Size: 9344318
-MD5sum: 189f35314330086e30418019a65bdfd7
-SHA1: 84147f2fb986b8abb5848d99de1da51804885139
-SHA256: a5f143744fa8da03d4dbed9812d3ed8fa5c13c96252c486ccbb733f15c3ca3b4
+MD5sum: 6792efb9c5448a17697b134cd2978ee5
+SHA1: 0f14cbe73b7023f21f08ce0baa70b9b95a7b03b8
+SHA256: 41eb4dddc66fa29c919caadae96b4e3b35fb25cf489659ed720be5427f314717
 Section: Springy
 Description: Colorful Apple Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -102,9 +116,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.colorwheel_1.0_iphoneos-arm.deb
 Size: 8043004
-MD5sum: 94036416699ad604d07ee4dc127d9d72
-SHA1: 7ba78d9b451839c2c38470c2265aa0100a54093c
-SHA256: e6c8d8060f9bc60a81a963b3767fe876fda34e0de871ab4a59920ba3797cf992
+MD5sum: caf87d2a9dd60c87801398c2b269b486
+SHA1: 636e777aeb79644b49633f3f736e27d846eead51
+SHA256: f09b67f8a235d971a9d0b5c359f53c42d3a29aa999fd3e6e9f1539401adc8914
 Section: Springy
 Description: Color Wheel Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -116,9 +130,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.cracks_1.0_iphoneos-arm.deb
 Size: 1987076
-MD5sum: b575a6508d0670b6d89772d3580ba6ae
-SHA1: 6850aaa1c81b804877219a872a257df800e85a95
-SHA256: 373989be7076c659aeefe9a9f6a410fab148c05051cf3c5ffc66106ecac479b6
+MD5sum: 6910158929d620430bb4a70be39057ea
+SHA1: db90570e7fa12b2209a01e22968d1a6540db437e
+SHA256: a3bef83eeb614da0571aee01c9130c8e1d6bd22f91f99cc7b92dc106fea2763c
 Section: Springy
 Description: Cracks Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -130,9 +144,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.cricledots_1.0_iphoneos-arm.deb
 Size: 3502284
-MD5sum: f5925d4aba9ef678c2f0e549267a5eea
-SHA1: c438bf9cda6c9e9d222df4056513012d2816e730
-SHA256: 7f183c07860b6796c1a39d520ccf0c65d767e4f3716a0786c3e193b3b4be64f5
+MD5sum: aced896acd54220699234aaadd95aabc
+SHA1: 1425757d0579106c9c27e6f0624085a3517cd8e5
+SHA256: ec7f313f845f1df07e7d34d0d60272d73494b2ca2f32e812f643f5bedf5c9bfd
 Section: Springy
 Description: Circle Dots Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -145,9 +159,9 @@ Maintainer: Zidati <zidatigaming@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.zidati.crispydark_1.0_iphoneos-arm.deb
 Size: 672
-MD5sum: cb68013cf3247c9836f3c866aacf1829
-SHA1: 20c80f98e2eaaa4a3d69390d839720eee9525dc8
-SHA256: 83ed1759ee7d76f27265fcc4fa47338df2393bfa69c6a637f73e31c1ee809c60
+MD5sum: 4a7e8c65992cddd8f0312ed26e75bb6e
+SHA1: 5b6bd364a0f737ada4d190cda1884e32dc0ee198
+SHA256: eed2956a9058e4414e7487dafa65e842681814774c3ab7718340841a3549d569
 Section: Themes
 Description: Crispy Dark - Icon Pack ported from android
 Author: Zidati <zidatigaming@gmail.com>
@@ -159,9 +173,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.crystalballspringy_1.0_iphoneos-arm.deb
 Size: 31020428
-MD5sum: 073bc432e3c79803e0d110f32d5b53f1
-SHA1: 62d667abcab487ead9136a1920ca8e9380c8cb7e
-SHA256: f11cc18bc8112dfa7c31f735ff94621d91381238730df0cedc7f2d182dcb9fee
+MD5sum: 1a451366f34eb2dd4605d80bf94a448d
+SHA1: 47ee51a00e1dae097a9eac9e837fe269775ea182
+SHA256: 50ab66d8872c530592e492d94b367237ac09bff9a19248ac66723d4676b69b81
 Section: Springy
 Description: Crystal Ball Springy Animation from reddit u/PONCE54958
 Author: Zidati <zidatigaming@gmail.com>
@@ -173,9 +187,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.cube_1.0_iphoneos-arm.deb
 Size: 1820208
-MD5sum: d4a5d0cc6da1549e455ed46750f5314f
-SHA1: 286ffa474c36610d77b662378d2ced2c1e5bb946
-SHA256: f702e007f87269ae0731c803abbca956bd1e3977b5a636e05d5a48b9dfdb83e7
+MD5sum: c2b3b111c5cbe97d9c0d95e32711ad08
+SHA1: 9a43a8fd2dec61d94ca171d6e0ec1f21667d6fd8
+SHA256: 7d0c6584f1279778a01dae11fca9c5012f625ee6598eec0895d42955fdbbf617
 Section: Springy
 Description: Cube Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -187,9 +201,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.downloadingerror_1.0_iphoneos-arm.deb
 Size: 6436756
-MD5sum: a1feba6db476e23aab4ae0f8a21a9654
-SHA1: 9e39f090a230c6b77131fbb56922e4bb3584e70b
-SHA256: 0d8452b2c44a878f71941ebe56f44aef86c8230822b5647bb5a0ddc5233ad415
+MD5sum: e057a6845f94f78ee5ff6d13c2e0842f
+SHA1: a22dcbdf2777da839209eeca2db5e58054a5cbd5
+SHA256: 04e8353b3458e5efc4334a3ff80061216edde6ae4ca0906b125b78f491a28a68
 Section: Springy
 Description: Downloading Error Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -201,9 +215,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.fluidspringy_1.0_iphoneos-arm.deb
 Size: 2008222
-MD5sum: 890a232a98f98c243b5f45c0cef01029
-SHA1: 6b024cf4fa7f5c6cdb893fd15272aeeae20106fe
-SHA256: 69696d43405f377a8870c0d275d6ad3b45786b6c3d902e52832d888306e1cd5b
+MD5sum: 145f529068705b9174573f2b85a51ff8
+SHA1: 85ae520ca9613f83f342ca3f4433494ceec9c4a9
+SHA256: 20d87b88d65a87c9baa6655a2e0ecede1e931c427f784c9fd3c4b212f074072a
 Section: Springy
 Description: Fluid Springy Animation from reddit u/PONCE54958
 Author: Zidati <zidatigaming@gmail.com>
@@ -216,9 +230,9 @@ Maintainer: Zidati <zidatigaming@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.zidati.gothamcomplete_1.0_iphoneos-arm.deb
 Size: 15491714
-MD5sum: 142488ab0a051aaf0465639baf2e8688
-SHA1: 005e45035845bcb2ee1ffcf1484b9ed91a7db173
-SHA256: 0b8b4d0d10fb6fd952bb1b8481313ffeaa2d7b6587dcac1b70173b4337db0637
+MD5sum: c3a82fb38811be91921f9eb7a945f46b
+SHA1: 422ae6a5311e3d266239ac06ef3cc1743a34c41e
+SHA256: dda6d7e13d89c4790a0843361f332cb800e2b7905498205554535ac43c1140dd
 Section: Themes
 Description: mostly complete Gotham theme
 Author: Zidati <zidatigaming@gmail.com>
@@ -230,9 +244,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.guitarbunny_1.0_iphoneos-arm.deb
 Size: 253452
-MD5sum: d7a09a458d3c0de8b58326b4622a2e60
-SHA1: 7b39100c24df6757ac7edcf84103defa7336a9c1
-SHA256: 9ddc9a0c079b09f1f8a1a313a52a7e0a7d4a42bd76d4a9e452e505a93dc1079f
+MD5sum: 3c8e1b0445eee47417f8c421b5e9d59c
+SHA1: 59b57e290ae36f1b2b17af60b08cc5b1a90bb3ca
+SHA256: bbca15b59ceb97e25426bd5c12b39ff7946dbfe6bf2f407b956c8d6c89f0cd94
 Section: Springy
 Description: Bunny playing guitar Springy animation
 Author: Zidati <zidatigaming@gmail.com>
@@ -244,9 +258,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.hexagon_1.0_iphoneos-arm.deb
 Size: 5391846
-MD5sum: 4eda75619564a521f0b53a5617aa1be3
-SHA1: a183ba96b2e9e671d7a04c34528d032b0cd0f962
-SHA256: 82708e2fc83390b9b6dd2750acdfbf97d8e03374dc3ef52756e029147e1f4964
+MD5sum: 8d737e1bc34fe5c4e44805caed81f122
+SHA1: d922263d998155f043722a4fcb2f69ac11c36afd
+SHA256: 9cf4973dd9e6fcabb419ee7289cc5d672c9d20894223a274d5af301a11efa8c7
 Section: Springy
 Description: Hexagon Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -258,9 +272,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.hexagondots_1.0_iphoneos-arm.deb
 Size: 4229340
-MD5sum: c5e8edaff2c8b586896971a7a0db2b8b
-SHA1: 032584d36454461d6bf7a4cb67c22251d7f1b886
-SHA256: 07361e809b2c4f7ba06b507a423b8f476b863e77b6a37d4eadcf10fa7f01a915
+MD5sum: 624ab24283a7956583a796e5420b2c59
+SHA1: b72d95cc488e37ed1e68b6d58b45a2a0669b5982
+SHA256: dd19c29afaaf0b6da9be3520ed5cf056814c180e11b3fb39dddbd11846379d3e
 Section: Springy
 Description: Hexagon Dots Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -272,9 +286,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.knot_1.0_iphoneos-arm.deb
 Size: 1360622
-MD5sum: 9b7942b30c85fcc5e2840c431df0fc9a
-SHA1: 33ed8ba13adb3f7bcbcd744db8bc81cca4ca56b0
-SHA256: 5ebc5174c98456c19320b771833b4cf1e7513b36b441cc2e5b983e65ce2a3584
+MD5sum: 228673e5791257f460ffe3e496273584
+SHA1: 1ba9582d141c7bdbe8a995552fd6d27a69e051f3
+SHA256: f378197d7f685cd7d5d0983075b6eb9b6dc962108817cc89746fbd159452958e
 Section: Springy
 Description: Knot Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -286,9 +300,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.leftright_1.0_iphoneos-arm.deb
 Size: 10681794
-MD5sum: d4946ac9d67dc63111fbf3ab1b134610
-SHA1: ab3c44f151a91e1c2426eccd25857a0c45b72172
-SHA256: ed5600fa807d222c7de2414635234992f716b382e4b6cf74b678d0269c8df48a
+MD5sum: c016d80140b0226072691467ea46135d
+SHA1: 926b945cf9ec68f5347544434b85e3567864bda3
+SHA256: d46c834829057b7872676c5542fcdbecba9bba9a4f61116f388be19d8e282c85
 Section: Springy
 Description: Left Right Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -300,9 +314,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.liverbirdlockglyph_1.0_iphoneos-arm.deb
 Size: 25316
-MD5sum: 77a6ca05ab2867b528ea9402367e5329
-SHA1: 37aa20115ace5e891426061dff4d257fc9e6e81f
-SHA256: 42cc8956491be1cc5e32170862ebf76cf890560fc54bbee93636b8a41922b040
+MD5sum: 6130b076056f125f90525866e633cd8c
+SHA1: d887c038c0c3d6a8727a67c1ca986a8141ea013c
+SHA256: 5fae9125dd978559d037e5c37581c4aa6ecc214c1da0d1efee884cf2090321d8
 Section: Lock Glyph
 Description: Liver Bird Lock Glyph
 Author: Zidati <zidatigaming@gmail.com>
@@ -314,9 +328,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.majesticwhales_1.0_iphoneos-arm.deb
 Size: 4057398
-MD5sum: 58a01ecac1578539bca59b3520e6ac3c
-SHA1: 4dce1aab14ffda06487a3df032ba866909866ff0
-SHA256: 2bab018342a6478d10219294e2b9f91f95e3011946c0216efe26ee7ef12517e2
+MD5sum: d504388456c5e96d9398024be76811ca
+SHA1: b8a9ce07213a07c3f0c715e3308b8edae6519113
+SHA256: 1b0df1e3f2e01e87a8a80050c322161ec5f7a1cd0feda5200a66bac671fd1ef8
 Section: Springy
 Description: Majestic Whales Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -328,9 +342,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.marshmallow_1.0_iphoneos-arm.deb
 Size: 14764602
-MD5sum: d5b61dffa713a1ad66a347ee29aa16d9
-SHA1: 23fc6b699d5a81cf48fad8b8d5dd58b7715c6365
-SHA256: d5f8a56d06b3f55f833d8512382c75976d9737fea2ceed834e53b876b57e03f1
+MD5sum: 2b8f3abaf097c9210c0a19e94b701ec8
+SHA1: d2169471ec6ec95da57411a89124c5754b3e9f45
+SHA256: 5e5a0a436d6cb3e1a995f4ccb3456124576507b7f067eadcc929e706105b2620
 Section: Springy
 Description: Android Marshmallow Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -342,9 +356,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.martian_1.0_iphoneos-arm.deb
 Size: 8766864
-MD5sum: 87a0b97cc982440c2f379779b2ed84b3
-SHA1: 4644bf247c893ac63c9963e1c9ed9faa6da21ba1
-SHA256: 4ad5a2e65ad681f2c489783649c30eae7b16ea64e4c045a8144129710666a922
+MD5sum: 3cf87a2e45b24cd2be8c50c31001371c
+SHA1: 3a198ac93a7cdc33f8cd09285d3298b4233fd5b3
+SHA256: ef2135217fe06a26279cb3244ea962c8932df2204adb3d01af0d94946965bef5
 Section: Springy
 Description: The Martian H.A.B. shutdown Springy animation
 Author: Zidati <zidatigaming@gmail.com>
@@ -356,9 +370,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.particlesheadspringy_1.0_iphoneos-arm.deb
 Size: 31322378
-MD5sum: 9d1cb6688096e10b1b7bd766795300c2
-SHA1: 3eb87d0c73d153a48a35ac636689691fbcd6fc56
-SHA256: d3ded9f8d94e8ec07aad16c1365ec795ba769a88243633710ad486664aeb0097
+MD5sum: d325c4ee01aa70af8098b1551e3b9b77
+SHA1: 3b6d65668b302c5193dc4d985a1b073e94941074
+SHA256: ba883245eee03395a91088649efa8315a2bb3dfd4ad3c434f2ecb84777aef114
 Section: Springy
 Description: Particles Head Springy Animation from reddit u/PONCE54958
 Author: Zidati <zidatigaming@gmail.com>
@@ -370,9 +384,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.pinkretard_1.0_iphoneos-arm.deb
 Size: 577764
-MD5sum: 1d4c885e0d4b5d6154ab832d2417e4e6
-SHA1: d28647d5ef4192d5824154b7baf95128a6101272
-SHA256: edd6c5b0041a75538bd5c02ac9f8cf15c4be3f68967ac1a3df33eb60ba7f46f8
+MD5sum: 79445d543be2a0469e1aed0b24efd857
+SHA1: 094dd973803343d2a696301b591dbee861780ac8
+SHA256: 42e432333a6570d3a3a5368f5aa9deff20b83cafd2447b472a768994266bf993
 Section: Springy
 Description: Pink Retard Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -385,9 +399,9 @@ Maintainer: Zidati <zidatigaming@gmail.com>
 Depends: com.aditkamath.springy
 Filename: ./debs/com.zidati.pokemongospringy_1.0_iphoneos-arm.deb
 Size: 1621322
-MD5sum: fc5b5b67e81f48a82834727a5f2f3f37
-SHA1: 1dbf4724ce051053baae1d8fd7ee0d647fd3535e
-SHA256: e840579faf0c3923e0b2a6f8451092d98ca6cabde0d852499fb338acce42712c
+MD5sum: d24a2a1c6325a2a494ae4c289b18a1ce
+SHA1: 57fd30594f5d3097faab119c45ec50d59766777b
+SHA256: fc115e1f9ab937309e6d7d3d72ca9dbbae04326ca3c81eb21a573775960c115a
 Section: Springy
 Description: Pokemon GO loading animation for Springy       requested by U/RepsAreRealShoes
 Author: Zidati <zidatigaming@gmail.com>
@@ -399,9 +413,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.portlandtrailblazerslockglyph_1.0_iphoneos-arm.deb
 Size: 13806
-MD5sum: e8a8576fd9ce75308a759576ecf9d885
-SHA1: 6c9ac59d903587ae9fe71c01a119ecb51e182a4c
-SHA256: a983083fe0701c4fa6d058db695648dd5c602be4cbd4993ca277c47e0f6399df
+MD5sum: afae8fda96cf78f1ce017f604a2257db
+SHA1: b465192f1e21fb3178a8786e320358a5ff906421
+SHA256: 3a9e091036334124a8c6cc77d575cd9bf9c077a43ff34af53f2f0e72a2a4484c
 Section: Lock Glyph
 Description: Portland Trail Blazers
 Author: Zidati <zidatigaming@gmail.com>
@@ -413,9 +427,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.prismaticheadspringy_1.0_iphoneos-arm.deb
 Size: 52377460
-MD5sum: 56877d09eb9d8d0365c7777fee67b8df
-SHA1: affb9c30e08cd94a1c0461bade4a671d0f98d21d
-SHA256: c1f0bf8e16ac779c52592c5993098d075f8d1e0ef86d9e982f603b4ad0bd1c9b
+MD5sum: ade95ce706d410ded562e52fc163aef7
+SHA1: 252b67c5cf35c87c052c5960b9859cc279bc5a22
+SHA256: d8d9d62a8d9f53e5efff615e7f663b7f8b00b283e1bd76e122fb5cfb564e4a8f
 Section: Springy
 Description: Prismatic Head Springy Animation from reddit u/PONCE54958
 Author: Zidati <zidatigaming@gmail.com>
@@ -427,9 +441,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.rotating8_1.0_iphoneos-arm.deb
 Size: 7102444
-MD5sum: d771d627eadf21a93f008809397d5f83
-SHA1: 04aa4a72c2ea38624b623e56664b29a0eb316b78
-SHA256: 925daae443b6b0af8dcaee4d9a714874d4016fa401350352dc0eefe940842407
+MD5sum: 4b1872ed1c139a3574a97e97a0e61e44
+SHA1: 17f675a8c69322276ffb3eb450865a92b33f139d
+SHA256: a6f2ba1885027d37d6b4648941490a14594d5bfae08a9a1184e52efd90f36c1e
 Section: Springy
 Description: Rotating 8 Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -441,9 +455,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.rotatingsphere_1.0_iphoneos-arm.deb
 Size: 18228006
-MD5sum: 70eef60674329af7b335624f245ec169
-SHA1: 9ae2462ee2c9a8769918c3701d168e36d874830d
-SHA256: 35218f99845d99a16d4ef0b0eaf5079519b61b64d897bee6e042675dfee1e384
+MD5sum: 057e2d50e4a9a6a5afd601bb83608df9
+SHA1: f1e5d8f6450b4f699dcc879de59cec662ed21d12
+SHA256: ebbd9d0cb066ca670d5440bced2df9df68f92e5b7495ce8f3b92bcd14e340d0e
 Section: Springy
 Description: Rotating Sphere Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -455,9 +469,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.sixpointedstar_1.0_iphoneos-arm.deb
 Size: 30048478
-MD5sum: 13b4cf57c83bcadec7470a4bc7998114
-SHA1: 639b09d11f6262b467253c527a8e0146747ecb37
-SHA256: f4dc09e80fd767f6c5f906bf482c60321bcd2d8e682c1293877e31d00a68ca6e
+MD5sum: 622604984bd3b4fd81af27448593af3d
+SHA1: 2394cd91343b30f7c9eb82a238529df3d0e482de
+SHA256: b80c63a663c9c6b906fa3e3ee5d95392e7b32c2461194c6f02c488c062120e60
 Section: Springy
 Description: Six Pointed Star Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -469,9 +483,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.spaghetti_1.0_iphoneos-arm.deb
 Size: 8008440
-MD5sum: 335f750e9caa4f7b22606a70b0b630a9
-SHA1: 9fcf48d61e3c8cd04373faffc43b4f549b0ad3d4
-SHA256: efa00ad6e8a0062ab0eb69d79cf4654d7fcadf3b49a2151ba2f8f5ccdba0267e
+MD5sum: dd93bf9fbdc45077b96bf3810771e119
+SHA1: 4885aa42035898a21ddfd932f4a01e78c6c13988
+SHA256: a30dee345fc54370b367ba22da5f1ed39190faa89d7bb1b1bca17d00298bea7c
 Section: Springy
 Description: Spaghetti Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -483,9 +497,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.spheresignal_1.0_iphoneos-arm.deb
 Size: 21495688
-MD5sum: 2c410d268ca2512a93bfa749e9c449c5
-SHA1: e645a99cc6d75c28bd33f79e28fecc441acef2fd
-SHA256: ebcfc3f989462d43498586dca9436d497b6cbe9800c01202c042818aab0297f5
+MD5sum: 176e4e60eb8b44dfe6d0c6a1a484e88e
+SHA1: 547a871df68842432ad8586ee0e440e35127424f
+SHA256: 1b1111bd3e8081717e6a222a3252b4a6e3b760bc9730c685abf8baf113098717
 Section: Springy
 Description: Sphere Signal Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -497,9 +511,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.spinningcube_1.0_iphoneos-arm.deb
 Size: 9573270
-MD5sum: fd5521f12e93f349941b6b397fc4f703
-SHA1: ff1d12a0d039cfea6bd74ad3a666a9955ae1e3fc
-SHA256: 7aed6be773d4c16b3ef9e48ac492f1c5679b47bc29bca3da06fbe8bdf42dd73e
+MD5sum: 7654e0c5173af9f69e806ef3893b5f01
+SHA1: b3bc91ac933df8f7896c8d4c4da8516e42d249c7
+SHA256: 40681a92e1126891836f9ce5cf3f89185331215abde1dab91503c71f2f5efcb4
 Section: Springy
 Description: Spinning Cube Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -511,9 +525,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.spinningsphere_1.0_iphoneos-arm.deb
 Size: 7173376
-MD5sum: 7733e4de71d1dc829c463e92d07d676a
-SHA1: a71279946853f1c04fb81c3ad0903761df23168f
-SHA256: e56c16f9ba27b91c383819216d6942cfcf2befc234cc0d93688f72a79485c530
+MD5sum: 631520baf47c40560d07da4a6531ccbb
+SHA1: c298e67109d47a65f33301e94d5d10116a20254e
+SHA256: 20ef675613cf2b7501650457b8262c32be79d0953bba99dbeebdb11017e4f2be
 Section: Springy
 Description: Spinning Sphere Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -525,9 +539,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.spiralhexagonspringy_1.0_iphoneos-arm.deb
 Size: 42997294
-MD5sum: 3501fb0fff9af511fc7052b8ce7d5d7d
-SHA1: fd38d9ed39af49ccd795ba9b9050aee3b5fcde27
-SHA256: 3a9a6d2b538b163b467360d11528aba888836442f3fc5579fff00b0ff8762fb1
+MD5sum: d0cb330b66111aa4040c34557c376f24
+SHA1: 2dcc58a96c676e8b4cf6e3111249a21b2ecf5f30
+SHA256: a866605df14bf3248e9d4e37802ac8e19f95bd4b5d1c2d133304f7be635b0b4a
 Section: Springy
 Description: Spiral Hexagon Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -539,9 +553,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.sunsetspringy_1.0_iphoneos-arm.deb
 Size: 2640116
-MD5sum: 068676da943cc353132d01f4e7c1131a
-SHA1: 6c6ee42860d750e3dc40bb61616e7cbac38dcf3c
-SHA256: f59e5668f055565c7b91a31426f99319f66868fc3a7422efa390af69e6e92457
+MD5sum: 59a12a74c65637dc62df62aaab3e4328
+SHA1: 26b77a0a7b914f7f576deb2663ef9ec60d6971ce
+SHA256: 72c9cdaebd76142792822a97bc884aaec6104a6a89234c20ff8af54066d9b7ec
 Section: Springy
 Description: Spiral Hexagon Springy animation from reddit titanicnarwhal
 Author: Zidati <zidatigaming@gmail.com>
@@ -553,9 +567,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.ticktockspringy_1.0_iphoneos-arm.deb
 Size: 5671234
-MD5sum: f622c149a1dbaf9471b1252d46963e94
-SHA1: ba9ff9a7049319632fbc671947927679ecac15a0
-SHA256: d0bccb89ccf2b78fbcfca3cbc82272e7b3527cf122de98e9080ca09df0c772e6
+MD5sum: fa22048454eccf3c30dbfee3b0d68668
+SHA1: 04450b5f565f225582c56c45a8f7d769a54fedac
+SHA256: 4235246f6bd40c94834077b0fec2db88622e2d3de7b67ff1ef586b4b60b43a97
 Section: Springy
 Description: Ticktock Springy animation
 Author: Zidati <zidatigaming@gmail.com>
@@ -567,9 +581,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.trippy_1.0_iphoneos-arm.deb
 Size: 5751814
-MD5sum: 248a216b41300311fc593e01830164ea
-SHA1: 3346b2cf355ea5c22523d356af20e7393304cfff
-SHA256: 114e618837db352b861b2087ab00521a95ee5e3e8d39c982c86bbd6e4b693985
+MD5sum: ed32f6ecaea529a0f0a3ca16630aee1b
+SHA1: 0f9fed57ffaf03828af979d999e5077941e573a8
+SHA256: 52d32a856fe1bd7d52bb42c8051cab531c87edab86162a8fe839196e499d6425
 Section: Springy
 Description: Trippy Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -581,9 +595,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.twirl2_1.0_iphoneos-arm.deb
 Size: 4235666
-MD5sum: e2436863c7acb32fe2d3f35ad9d35418
-SHA1: d761d45dbd17c46b0084578d38fd6392a21b565f
-SHA256: e7cecedcf378fa16e2d1071dac85d1cedd3baa36be2ee923817669bc74a17c19
+MD5sum: 06c10d361997dc51f6ce2a541357440d
+SHA1: 315a7088114a9f929f7831430146ff68a86fed45
+SHA256: dd2fdb575f150d10d9d612a07533e603518f20338e4650470bc06b8e55f7c072
 Section: Springy
 Description: Twirl 2 Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -595,9 +609,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.watchdogslockglyph_1.0_iphoneos-arm.deb
 Size: 8012
-MD5sum: 0948058f0a3d06bf795a16dd20153200
-SHA1: 3923d592420ac0e714cb5008ad1adc514afcea25
-SHA256: 708c8f95ba709ef3f965f9914de92cdfd0789430e97f41c916cf310f5e5fc5d6
+MD5sum: 3e9fa101fd056835ff1943aac1669c61
+SHA1: 3505163570ab165c696b649646d38a34745410c1
+SHA256: f80fbd7d0c7fbbc787d9baa0a9c020dfe99b5ebc79fc634053ecd22cb1b5cfa4
 Section: Lock Glyph
 Description: Watch Dogs Lock Glyph
 Author: Zidati <zidatigaming@gmail.com>
@@ -609,9 +623,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.wifispringy_1.0_iphoneos-arm.deb
 Size: 5677098
-MD5sum: ff537be439f19835f5584e956f6d6bd1
-SHA1: 14d22d782c72cd09b63bbe762bc82a61e211965c
-SHA256: 30198bf20d572dd04da10f1d7f66e670defd03c0f34f0a3309525b25946b45df
+MD5sum: 00afd507252c93142255bfa9a79c22dd
+SHA1: 03403bbf4d2d03a8912b39b31269a431331b2c11
+SHA256: e3543ba9306f237fcf96b2e33bc782a28642710334c21684913c4ca18791e8ca
 Section: Springy
 Description: Wifi Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
@@ -623,9 +637,9 @@ Architecture: iphoneos-arm
 Maintainer: Zidati <zidatigaming@gmail.com>
 Filename: ./debs/com.zidati.wormspringy_1.0_iphoneos-arm.deb
 Size: 4855596
-MD5sum: 094d6fcaa88b702fb7f0af3b32dfe782
-SHA1: 197e3dba58e31c92b71c5e64a1762cb85670ee9f
-SHA256: 896a4aaa35cda732300fd526756c6b2e773e2489b8f2e36f83ff72fd7af088ab
+MD5sum: a489514bf1c8d34dd4036184d00e78ec
+SHA1: d9d9c26d38fa5fb130fe00925cdabab14730c3fc
+SHA256: 7cce0789750fc6fd49013da9eead02b0866f23844dbee36c84666fbc0a83e5cf
 Section: Springy
 Description: Worm Springy animation from reddit user/isaacteo
 Author: Zidati <zidatigaming@gmail.com>
